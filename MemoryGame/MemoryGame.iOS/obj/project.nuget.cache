@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/PqNNhSnf70aAV1Pi2cAq6ZrwWPiOWqsNmGBWHLW8Ay9vmlpp7AGudSJ4Ds2UKoKOt7CdjbKACxYVx4XRqx0Q==",
+  "success": true,
+  "projectFilePath": "/Users/eduardorodriguez/Projects/MemoryGame/MemoryGame/MemoryGame.iOS/MemoryGame.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardorodriguez/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

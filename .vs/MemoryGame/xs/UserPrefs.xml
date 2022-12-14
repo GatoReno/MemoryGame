@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{FF104746-B5CD-4D10-9378-2CBA766827F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.MemoryGame.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MemoryGame.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MemoryGame FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
